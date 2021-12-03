@@ -1,0 +1,17 @@
+Bootcamp Spread-DIO 
+
+Git https://git-scm.com/doc 
+a) criar repositorio no Github
+b) git clone (copiar repositorio do git para sua maquina local)
+c) git status (verificar mudanças na pasta na maquina local) 
+d) git add . (controle de versao, add todos arquivos e mudanças na pasta)
+e) git commit -m "msn de commit"
+f) git status 
+g) git push origin main (enviar arquivos para o repositorio do GitHub) 
+
+
+remove repository rm -rf .git 
+
+Java https://docs.oracle.com/en/java/javase/11/books.html
+
+
